@@ -7,5 +7,9 @@ public class ContactPage {
 
     // twitter
 
+    //instagram
+
+
+
 
 }
